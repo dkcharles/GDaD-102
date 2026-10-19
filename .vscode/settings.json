@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "GDaD-102.sln"
+    "dotnet.defaultSolution": "GDaD-102.slnx"
 }
